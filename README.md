@@ -1,6 +1,6 @@
 # insider-selenium-project
 
-Case
+#Case
 1. Visit https://useinsider.com/ and check Insider home page is opened or not
 2. Select “More” menu in navigation bar, select “Careers” and check Career page, its
 Locations, Teams and Life at Insider blocks are opened or not
@@ -11,5 +11,5 @@ jobs list
 “Quality Assurance”, Location contains “Istanbul, Turkey” and “Apply Now” button
 5. Click “Apply
 
-Notes
+#Notes
 Screenshots will be taken if test fails one of steps
